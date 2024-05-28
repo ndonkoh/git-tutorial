@@ -1,7 +1,1 @@
-console.log("Emma 1");
-function average(){
-    average = sum / n
-}
-
-
-console.log(dgxgdxgbx)
+console.log("Emmanuella.ME 1");
